@@ -1,5 +1,8 @@
 <p>
-    <p>Student At <a href="www.lpu.in">Lovely Professional University</a> <br></p> 
+    <p>
+        Student At <a href="https://www.lpu.in">Lovely Professional University</a> 
+        <br>
+    </p> 
     <ul>
         <li> 🎓 Bachelors in Computer Application '25
         <li> 👨🏻‍💻 A coding maniac
