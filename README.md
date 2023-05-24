@@ -1,7 +1,7 @@
 <p>
     <p>Student At <a href="www.lpu.in">Lovely Professional University</a> <br></p> 
     <ul>
-        <li> 🎓 Bachelors of Computer Application '25
+        <li> 🎓 Bachelors in Computer Application '25
         <li> 👨🏻‍💻 A coding maniac
         <li> 🙋🏻 Always ready to learn something
         <li> 🧑🏻‍🔬 Love to tinker with Technologies
@@ -17,12 +17,7 @@
 &ensp;
 
 <p>
-    &emsp;
-    <img height=30px src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git">
-    <br>
-    &ensp;
-    <img height=30px style="padding: 5px;"src="https://skillicons.dev/icons?i=bash,docker,github,linux,vim,vscode,neovim">
-    
+    <img height=30px src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,bash,docker,github,linux,vim,vscode,neovim">    
 </p>
 
 &ensp;
