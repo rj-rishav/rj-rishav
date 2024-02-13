@@ -19,11 +19,21 @@
 
 &ensp;
 
-<p>
-    <img height=30px src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,bash,docker,github,linux,vim,vscode,neovim">    
-</p>
+<img height=35px src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,bootstrap,tailwind,git,github">
+<img height=35px src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,bash,docker,linux,vim,vscode,neovim">
 
 &ensp;
+
+<table>
+    <tr>
+        <td>
+            <img height=450px src="https://wakatime.com/share/@018d89de-52d9-4ffc-9ab1-86afb33c3504/4754e655-0dd4-4490-bb02-4e75d7cf4c5b.svg">
+        </td>
+        <td>
+            <img height=450px src="https://wakatime.com/share/@018d89de-52d9-4ffc-9ab1-86afb33c3504/8b129823-4e76-4ff6-964c-4db6ed126bec.svg">
+        </td>
+    </tr>
+</table>
 
 <p>
     <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" height="30"></a> Reach me out
